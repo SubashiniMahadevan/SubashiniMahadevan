@@ -32,10 +32,10 @@
 <b>Lets connect</b>
 <p align="center">
 
-[https://www.linkedin.com/in/subashini-mahadevan/](https://www.linkedin.com/in/subashini-mahadevan/)
+[https://www.linkedin.com/in/subashini-mahadevan/](https://www.linkedin.com/in/subashini-mahadevan/)]
 
 
-[https://www.linkedin.com/in/subashini-mahadevan/](https://public.tableau.com/app/profile/subashini.mahadevan/vizzes)
+[(https://public.tableau.com/app/profile/subashini.mahadevan/vizzes)]
 
 
 <a href="mailto: ">  
