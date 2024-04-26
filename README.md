@@ -32,13 +32,13 @@
 <b>Lets connect</b>
 <p align="center">
 
-<a href="(25) Subashini Mahadevan | LinkedIn”>
+<a href="https://www.linkedin.com/in/subashini-mahadevan/”>
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href=”Profile - subashini.mahadevan | Tableau Public” >
+<a href=”https://public.tableau.com/app/profile/subashini.mahadevan/vizzes” >
 </a>
 
-<a href="mailto: subabtech2010@gmail.com">  
+<a href="mailto: subabtyech2010@gmail.com">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
 </a>
 
