@@ -59,15 +59,19 @@
 </p>
 <br>
 
-<b>Lets connect &#128071;</b>
+<b>Projects &#128220;:</b> 
+<li>Wealth Of Nations - Excel & Tableau
+<li>ATM Simulator - Python
+<li>SQL My SQL Database
+<li>Python Data Analysis - Flights dataset
+<br>
+
+<h3 align="Left"> Contact Me &#128071; </h3> </div>
 <hr>
 <p align="Left">
 
 <a href="https://www.linkedin.com/in/subashini-mahadevan/">
   <img align="Left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://public.tableau.com/app/profile/subashini.mahadevan/vizzes" >
-<img align="left" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
 <a href="mailto: subabtech2010@gmail.com">  
