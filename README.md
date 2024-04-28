@@ -69,6 +69,7 @@
 <li><a href="https://github.com/SubashiniMahadevan/Data-Analysis-Fundamentals-Flights-Dataset">Python Data Analysis - Flights dataset</a>
 <li><a href="https://github.com/SubashiniMahadevan/SQL-Classwork-Learnings">SQL Class Learnings</a> 
 <li><a href="https://github.com/SubashiniMahadevan/Python-Class-learnings">Python Class Learnings</a>  
+<li><a href="https://github.com/SubashiniMahadevan/Vehicle-sales-Project---POWERBI">Vehicle Sales- Powerbi</a>
 <br>
 
 <h3 align="Left"> Contact Me &#128071; </h3> </div>
