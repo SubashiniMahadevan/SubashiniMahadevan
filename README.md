@@ -60,10 +60,13 @@
 <br>
 
 <b>Projects &#128220;:</b> 
-<li>Wealth Of Nations - Excel & Tableau
-<li>ATM Simulator - Python
-<li>SQL My SQL Database
-<li>Python Data Analysis - Flights dataset
+<li><a href="https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau">Wealth Of Nations- Excel and Tableau</a>
+<li><a href="https://github.com/SubashiniMahadevan/Super-Store-Analysis---Tableau">Super-Store Project Tableau</a>
+<li><a href="https://github.com/SubashiniMahadevan/ATM-Project-Python">ATM Simulator - Python</a>
+<li><a href="https://github.com/SubashiniMahadevan/My-SQL-Project">SQL My SQL Database</a>
+<li><a href="https://github.com/SubashiniMahadevan/Data-Analysis-Fundamentals-Flights-Dataset">Python Data Analysis - Flights dataset</a>
+<li><a href="https://github.com/SubashiniMahadevan/SQL-Classwork-Learnings">SQL Class Learnings</a> 
+<li><a href="https://github.com/SubashiniMahadevan/Python-Class-learnings">Python Class Learnings</a>  
 <br>
 
 <h3 align="Left"> Contact Me &#128071; </h3> </div>
