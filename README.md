@@ -10,6 +10,8 @@
 
 🌱 Skills : Excel, SQL, Tableau, POWERBI and Python.
 
+<p>&#129300; Soft Skills: Curiosity, Attention to detail, Problem Solving, Adaptability and Continuous Learning.</p>
+
 <p>&#128483;Languages known: English, Tamil, Hindi and Sanskrit.</p> 
 
 </div>
