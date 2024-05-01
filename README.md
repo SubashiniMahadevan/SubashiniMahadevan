@@ -2,17 +2,22 @@
 
 <h3 align ="Left">&#128075; Hi, I'am Subashini Mahadevan 😊 </h3> 
 <br>
-<div> <h5>About Me:</h5> 
-
-🔭 I hold my B.Tech degree in Information technology from K.L.N College Of Information Technology (Affliated to Anna University), INDIA
+<div> <h4>About Me:</h4> 
+<br>
+  
+🔭 I hold my B.Tech degree in Information Technology from K.L.N College Of Information Technology (Affliated to Anna University), INDIA
 
 <p>&#128200; Aspiring Data Analyst discover meaningful insights and trends.</p>
 
-🌱 Skills : Excel, SQL, Tableau, POWERBI and Python.
+<p>&#128187; Worked as a Software Engineer (Oracle Documaker Studio Developer) for Automobile Vehicle Insurance Clients(of U.S.A) &#128663. Worked in Multiple Projects within Insurance Industry for 5 years in India. </p>
+
+<p>&#128218; Completed a 12 weeks Digital Skills Data Technician Bootcamp in JustIT.</p>
+ 
+🌱 Current Skills : Excel, SQL, Tableau, POWERBI and Python.
 
 <p>&#129300; Soft Skills: Curiosity, Attention to detail, Problem Solving, Adaptability and Continuous Learning.</p>
 
-<p>&#128483;Languages known: English, Tamil, Hindi and Sanskrit.</p> 
+<p>&#128483;Languages Spoken: English, Tamil, Hindi.</p> 
 
 </div>
 <br>
@@ -65,7 +70,7 @@
 <li><a href="https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau">Wealth Of Nations- Excel and Tableau</a>
 <li><a href="https://github.com/SubashiniMahadevan/Super-Store-Analysis---Tableau">Super-Store Project Tableau</a>
 <li><a href="https://github.com/SubashiniMahadevan/ATM-Project-Python">ATM Simulator - Python</a>
-<li><a href="https://github.com/SubashiniMahadevan/My-SQL-Project">SQL My SQL Database</a>
+<li><a href="https://github.com/SubashiniMahadevan/My-SQL-Project">Employee Payroll - My SQL and Powerbi Project</a>
 <li><a href="https://github.com/SubashiniMahadevan/Data-Analysis-Fundamentals-Flights-Dataset">Python Data Analysis - Flights dataset</a>
 <li><a href="https://github.com/SubashiniMahadevan/SQL-Classwork-Learnings">SQL Class Learnings</a> 
 <li><a href="https://github.com/SubashiniMahadevan/Python-Class-learnings">Python Class Learnings</a>  
