@@ -1,6 +1,6 @@
-<h2 align ="Center"> Hey! &#129309; Nice to see you</h2>
+<h2 align ="Center"> Hey! &#128512; Nice to see you</h2>
 
-<h3 align ="Left">&#128075; Hi, I'am Subashini Mahadevan 😊 </h3> 
+<h3 align ="Left">&#128075; Hi, I'am Subashini Mahadevan &#128578; </h3> 
 <br>
 <div> <h4>About Me:</h4> 
 <br>
