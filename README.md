@@ -75,6 +75,7 @@
 <li><a href="https://github.com/SubashiniMahadevan/SQL-Classwork-Learnings">SQL Class Learnings</a> 
 <li><a href="https://github.com/SubashiniMahadevan/Python-Class-learnings">Python Class Learnings</a>  
 <li><a href="https://github.com/SubashiniMahadevan/Vehicle-sales-Project---POWERBI">Vehicle Sales- Powerbi</a>
+<li><a href="https://github.com/SubashiniMahadevan/POWERBI-Class-Learnings--Executive-Summary-Finance-Report-">Powerbi Class Learning - Executive Summary Finance Report</a>
 <br>
 
 <h3 align="Left"> Contact Me &#128071; </h3> </div>
