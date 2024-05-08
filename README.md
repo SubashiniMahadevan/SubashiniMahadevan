@@ -67,15 +67,16 @@
 <br>
 
 <b>Projects &#128220;:</b> 
-<li><a href="https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau">Wealth Of Nations- Excel and Tableau</a>
-<li><a href="https://github.com/SubashiniMahadevan/Super-Store-Analysis---Tableau">Super-Store Project Tableau</a>
-<li><a href="https://github.com/SubashiniMahadevan/ATM-Project-Python">ATM Simulator - Python</a>
-<li><a href="https://github.com/SubashiniMahadevan/My-SQL-Project">Employee Payroll - My SQL and Powerbi Project</a>
+<li><a href="https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau">Wealth Of Nations- Excel and Tableau Project</a>
+<li><a href="https://github.com/SubashiniMahadevan/Super-Store-Analysis---Tableau">Super Store - Excel and Tableau Project</a>
+<li><a href="https://github.com/SubashiniMahadevan/ATM-Project-Python">ATM Simulator Program - Python</a>
+<li><a href="https://github.com/SubashiniMahadevan/My-SQL-Project">Employee Payroll - My SQL and Power BI Project</a>
 <li><a href="https://github.com/SubashiniMahadevan/Data-Analysis-Fundamentals-Flights-Dataset">Python Data Analysis - Flights dataset</a>
 <li><a href="https://github.com/SubashiniMahadevan/SQL-Classwork-Learnings">SQL Class Learnings</a> 
 <li><a href="https://github.com/SubashiniMahadevan/Python-Class-learnings">Python Class Learnings</a>  
-<li><a href="https://github.com/SubashiniMahadevan/Vehicle-sales-Project---POWERBI">Vehicle Sales- Powerbi</a>
-<li><a href="https://github.com/SubashiniMahadevan/POWERBI-Class-Learnings--Executive-Summary-Finance-Report-">Powerbi Class Learning - Executive Summary Finance Report</a>
+<li><a href="https://github.com/SubashiniMahadevan/Vehicle-sales-Project---POWERBI">Vehicle Sales - Power BI Project</a>
+<li><a href="https://github.com/SubashiniMahadevan/FashionSales-Excel-Microsoft-SSMS-POWERBI">Fashion Sales - T-SQL Microsoft SQL Server Management Studio(SSMS)-Power BI Project</a>
+<li><a href="https://github.com/SubashiniMahadevan/POWERBI-Class-Learnings--Executive-Summary-Finance-Report-">Power BI Class Learning - Executive Summary Finance Report</a>
 <br>
 
 <h3 align="Left"> Contact Me &#128071; </h3> </div>
